@@ -1,0 +1,1 @@
+let script = document.createElement('script'); script.src = 'https://cdn.chaty.app/pixel.js?id=4rKBFF3A'; script.id = 'pixel-chaty'; document.head.appendChild(script)
